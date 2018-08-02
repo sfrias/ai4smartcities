@@ -13,3 +13,5 @@ La meta es obtener una correlacióm entre los edificios detectados por un modelo
 y la representación de valores obtenida de los píxeles tras aplicar un algoritmo no supervisado
 sobre la banda con mayor resolución y que ofrece los mejores resultados, descartando vegetaciones
 y favoreciendo colores terrosos.
+
+Proyecto conducido por el Arquitecto Luis Ulloa.
